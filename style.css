@@ -1,0 +1,52 @@
+/* 
+    Author: Amritpal Singh
+ */
+
+/* styles for h1 tag */
+
+header h2 {
+  width: fit-content;
+  margin: 0px auto;
+  font-family: sans-serif;
+  padding: 20px;
+  text-align: center;
+  font-weight: bolder;
+}
+
+header h3 {
+  width: fit-content;
+  margin: 0px auto;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+/* styles for form section */
+
+main {
+  width: 500px;
+  margin: 20px auto;
+  font-family: sans-serif;
+  padding: 20px;
+  border: 2px solid black;
+  border-radius: 15px;
+  box-shadow: 0px 0px 6px 3px grey;
+}
+
+#buyLabel {
+  margin: 0px auto;
+  text-align: center;
+  font-size: large;
+  font-weight: bolder;
+}
+
+/* styles for receipt section */
+
+#receipt {
+  margin-top: 20px;
+}
+
+#receiptCustomerDetails{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
